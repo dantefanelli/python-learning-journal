@@ -1,1 +1,6 @@
-What I have learned so far in phython is one basic element of coding which is print
+# Week 1 Reflections
+This week I learned about:
+- What Python is used for
+- How to write my first program using `print()`
+
+
